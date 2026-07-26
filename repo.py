@@ -1,1 +1,1 @@
-print("Hey, Its my trying to make my first repo")
+print("Hey,Im just  trying to make my first repo")
